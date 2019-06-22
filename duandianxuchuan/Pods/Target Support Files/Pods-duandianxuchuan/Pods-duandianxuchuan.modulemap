@@ -1,0 +1,6 @@
+framework module Pods_duandianxuchuan {
+  umbrella header "Pods-duandianxuchuan-umbrella.h"
+
+  export *
+  module * { export * }
+}
